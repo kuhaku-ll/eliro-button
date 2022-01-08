@@ -39,6 +39,9 @@
           <Search />
         </div>
       </transition>
+      <div
+        class="name"
+      >彼岸霜滢Eliro</div>
       <!-- <div class="btn" :title="t(INFO_I18N.lang)" @click="changeLang">
         <svg
           viewBox="0 0 1024 1024"
@@ -201,6 +204,13 @@ onMounted(() => {
     font-size 20px
     margin-right 10px
     user-select none
+
+  .name
+    color rgba(69, 94, 173, 0.9)
+    font-size 20px
+    margin-right 10px
+    user-select none
+    margin 0 10px 0 auto
 
   .search-btn
     width 30px
