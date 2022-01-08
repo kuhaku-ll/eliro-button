@@ -1,0 +1,16 @@
+[
+  {
+    "name": "名言",
+    "translate": {
+      "zh-CN": "滢宝名言~",
+      "en-US": ""
+    }
+  },
+    {
+      "name": "日常",
+      "translate": {
+        "zh-CN": "猫猫日常~",
+        "en-US": "Hiiro's daily~"
+      }
+    }
+]

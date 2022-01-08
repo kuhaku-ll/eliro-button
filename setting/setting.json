@@ -1,0 +1,79 @@
+{
+  "name": {
+    "CN": {
+      "title": "傻狗按钮",
+      "fullName": "彼岸霜滢Eliro按钮"
+    },
+    "EN": {
+      "title": "eliro Button",
+      "fullName": "eliro"
+    }
+  },
+  "readme": "",
+  "header": {
+    "icon": "img/logo.svg",
+    "youtube": "",
+    "twitter": "",
+    "bilibili": "http://live.bilibili.com/1221274"
+  },
+  "link": [
+    {
+      "name": "Hiiro按钮",
+      "url": "https://hiiro.club/",
+      "background": "#F5C1BB"
+    },{
+      "name": "猫猫Hii图",
+      "url": "https://hii.hiiro.club/",
+      "background": "#F5C1BB"
+    },
+    {
+      "name": "七奈按钮",
+      "url": "https://kaguranana.moe/",
+      "background": "#c4afd0"
+    },
+    {
+      "name": "希亚娜按钮",
+      "url": "https://ciyana.moe/",
+      "background": "#19368f",
+      "color": "#eee"
+    },
+    {
+      "name": "鹿乃按钮",
+      "url": "https://kano.zone/",
+      "background": "#bf9780",
+      "color": "#000"
+    },
+    {
+      "name": "虚研社按钮",
+      "url": "https://xysbtn.xiaoblogs.cn/",
+      "background": "#cd3951",
+      "color": "#eee"
+    }
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "blacktunes",
+        "url": "https://github.com/blacktunes"
+      },
+      {
+        "name": "空白-Official",
+        "url": "https://space.bilibili.com/15278628"
+      }
+    ],
+    "info": [
+      ""
+    ],
+    "githubUrl": "https://github.com/blacktunes/hiiro-button"
+  },
+  "console": {
+    "text": "彼岸霜滢Eliro",
+    "size": "24px",
+    "color": "blank",
+    "img": "eliro.jpg",
+    "imgWidth": "100%",
+    "imgHeight": "60%"
+  },
+  "mediaSession": "",
+  "CDN": "https://cdn.jsdelivr.net/gh/blacktunes/hiiro-button@master/public/voices"
+}
