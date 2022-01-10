@@ -64,6 +64,7 @@
 <script lang="ts" setup>
 import Setting from '@/../setting/setting.json'
 import bilibiliPng from '@/assets/image/bilibili-fill.png'
+import wangyiPng from '@/assets/image/wangyi-fill.png'
 import twitterPng from '@/assets/image/twitter-fill.png'
 import youtubePng from '@/assets/image/youtube-fill.png'
 import { INFO_I18N } from '@/assets/script/type'
@@ -79,6 +80,7 @@ const HEADER: {
   youtube?: string;
   twitter?: string;
   bilibili?: string;
+  wangyi?: string;
 } = Setting['header'] || {}
 
 const onLogoClick = (logo: Ref<HTMLElement>) => {
@@ -108,6 +110,10 @@ const btnList = [
   {
     url: HEADER.bilibili,
     img: bilibiliPng
+  },
+  {
+    url: HEADER.wangyi,
+    img: wangyiPng
   }
 ]
 
