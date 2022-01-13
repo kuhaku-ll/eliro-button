@@ -1,8 +1,26 @@
 [
   {
+    "name": "垂直落下",
+    "path": "垂直落下.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "垂直落下",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "你愿意接住下坠的我吗.../垂直落下【原创pv付】",
+      "time": "0.00~4.25",
+      "url": "https://www.bilibili.com/video/BV1JP4y137PD"
+    }
+  },{
     "name": "勾指起誓",
     "path": "勾指起誓.mp3",
-    "date": "2022-01-09",
+    "date": "2022-01-13",
     "translate": {
       "zh-CN": "勾指起誓",
       "en-US": ""
@@ -16,6 +34,330 @@
       "title": "【霜滢】勾指起誓（月饼节假期快乐！！！）",
       "time": "0:01~03.03",
       "url": "https://www.bilibili.com/video/BV1HJ411P7sd"
+    }
+  },{
+    "name": "死ぬにはいい日だった",
+    "path": "死ぬにはいい日だった.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "死ぬにはいい日だった",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【霜滢】那是个去死的好日子/死ぬにはいい日だった「翻唱」",
+      "time": "0:00~04.33",
+      "url": "https://www.bilibili.com/video/BV1VJ411P7Jk"
+    }
+  },{
+    "name": "聞こえますか",
+    "path": "聞こえますか.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "聞こえますか",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【霜滢】听得到吗/聞こえますか「无论何时我们的恋情都是10厘米」",
+      "time": "0:00~03.40",
+      "url": "https://www.bilibili.com/video/BV1QJ41137bT"
+    }
+  },{
+    "name": "きみも恶い人でよかった",
+    "path": "きみも恶い人でよかった.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "きみも恶い人でよかった",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【霜滢】你也是坏人，真是太好了/きみも悪い人でよかった[翻唱]",
+      "time": "0:00~06.30",
+      "url": "https://www.bilibili.com/video/BV1sE411Q7zb"
+    }
+  },{
+    "name": "地球をあげる",
+    "path": "地球をあげる.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "地球をあげる",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "[霜滢]把地球送给你/地球をあげる[后期：CO零语]",
+      "time": "0:00~04.38",
+      "url": "https://www.bilibili.com/video/BV1hJ411x7Q4"
+    }
+  },{
+    "name": "シニタイちゃん",
+    "path": "シニタイちゃん.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "シニタイちゃん",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【霜滢】想死的她/想死酱/シニタイちゃん 【happy birthday to me】『自生贺』",
+      "time": "0:00~03.33",
+      "url": "https://www.bilibili.com/video/BV1hJ411x7Q4"
+    }
+  },{
+    "name": "誰でもいいから付き合いたい",
+    "path": "誰でもいいから付き合いたい.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "誰でもいいから付き合いたい",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "谁都可以请和我交往！誰でもいいから付き合いたい/彼岸霜滢Eliro",
+      "time": "0:00~01.08",
+      "url": "https://www.bilibili.com/video/BV1SA411T7Wp"
+    }
+  },{
+    "name": "食虫植物",
+    "path": "食虫植物.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "食虫植物",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "[奶味病娇]食虫植物/彼岸霜滢Eliro",
+      "time": "0.00~2.48",
+      "url": "https://www.bilibili.com/video/BV1b64y1D7HC"
+    }
+  },{
+    "name": "把地球送给你",
+    "path": "把地球送给你.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "把地球送给你",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【彼岸霜滢Eliro】小天使的歌声～《把地球送给你》",
+      "time": "0.00~0.43",
+      "url": "https://www.bilibili.com/video/BV1mX4y1g7rJ"
+    }
+  },{
+    "name": "大鱼",
+    "path": "大鱼.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "大鱼",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【彼岸霜滢Eliro】直播翻唱《大鱼 》 看海天一色，听风起雨落",
+      "time": "0.00~4.02",
+      "url": "https://www.bilibili.com/video/BV1aK4y1P7JC"
+    }
+  },{
+    "name": "两只老虎爱跳舞",
+    "path": "两只老虎爱跳舞.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "两只老虎爱跳舞",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【彼岸霜滢Eliro】两只老虎爱跳舞～",
+      "time": "0.00~3.36",
+      "url": "https://www.bilibili.com/video/BV11K4y1R7bv"
+    }
+  },{
+    "name": "宝宝巴士",
+    "path": "宝宝巴士.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "宝宝巴士",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【彼岸霜滢Eliro】【名场面】宝宝巴士～",
+      "time": "0.21~2.26",
+      "url": "https://www.bilibili.com/video/BV1Y5411g79D"
+    }
+  },{
+    "name": "蜜雪冰城热曲串烧",
+    "path": "蜜雪冰城热曲串烧.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "蜜雪冰城热曲串烧",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "⚡改造你的DNA！❄️蜜雪冰城热曲串烧！",
+      "time": "0.00~1.47",
+      "url": "https://www.bilibili.com/video/BV1Zv411p7RF"
+    }
+  },{
+    "name": "ECHO",
+    "path": "ECHO.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "ECHO",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【10w纪念】ECHO[完全体出道]/霜滢",
+      "time": "0.00~3.35",
+      "url": "https://www.bilibili.com/video/BV1fv411J7Rc"
+    }
+  },{
+    "name": "イエスタデイ_yesterday",
+    "path": "イエスタデイ_yesterday.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "イエスタデイ_yesterday",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "yesterday/霜滢/イエスタデイ",
+      "time": "0.00~5.00",
+      "url": "https://www.bilibili.com/video/BV1Uh411W7de"
+    }
+  },{
+    "name": "MIRA",
+    "path": "MIRA.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "MIRA",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【霜滢】MIRA",
+      "time": "0.00~2.16",
+      "url": "https://www.bilibili.com/video/BV1Dg411K7Qx"
+    }
+  },{
+    "name": "愛して愛して愛して",
+    "path": "愛して愛して愛して.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "愛して愛して愛して",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "请更多地爱我.../愛して愛して愛して【霜滢】",
+      "time": "0.00~4.13",
+      "url": "https://www.bilibili.com/video/BV1DR4y1W7yN"
+    }
+  },{
+    "name": "簪花人间",
+    "path": "簪花人间.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "簪花人间",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "【冰火歌会版】绝美古风合唱《簪花人间》/彼岸霜滢Eliro&七濑Unia",
+      "time": "0.00~4.22",
+      "url": "https://www.bilibili.com/video/BV1ou411S7jS"
+    }
+  },{
+    "name": "热爱105个女人的你",
+    "path": "热爱105个女人的你.mp3",
+    "date": "2022-01-13",
+    "translate": {
+      "zh-CN": "热爱105个女人的你",
+      "en-US": ""
+    },
+    "usePicture": {
+      "zh-CN": "",
+      "en-US": ""
+    },
+    "category": "滢宝の歌声",
+    "mark": {
+      "title": "超甜翻唱❤️《热爱105个女人的你》/DD快乐版",
+      "time": "0.00~1.55",
+      "url": "https://www.bilibili.com/video/BV1hv411p73T"
     }
   }
 ]
