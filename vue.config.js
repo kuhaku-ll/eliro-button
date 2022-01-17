@@ -2,6 +2,7 @@ const path = require('path')
 const Check = require('./plugins/check')
 
 process.env.VUE_APP_LAST_UPDATE = Date.now()
+// process.env.VUE_APP_TEXT = require('fs').readFileSync(require('path').join(__dirname,'./a.txt'))
 
 /**
  *  @typedef { import("@vue/cli-service").ProjectOptions } Options

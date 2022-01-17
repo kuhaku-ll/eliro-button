@@ -10,6 +10,7 @@ import Setting from '@/../setting/setting.json'
 import Control from '@/views/Control.vue'
 import VFooter from '@/views/Footer.vue'
 import VHeader from '@/views/Header.vue'
+import { text2 } from '@/../img.js'
 
 const CONSOLE = Setting['console'] || {}
 if (CONSOLE && (CONSOLE.text || CONSOLE.img)) {
@@ -22,6 +23,8 @@ if (CONSOLE && (CONSOLE.text || CONSOLE.img)) {
   const img = CONSOLE.img ? `padding-right:${width};padding-top:${height};background:url('${location.origin}/img/${CONSOLE.img}') no-repeat;background-size:100% 100%` : ''
 
   console.log(`%c${text}%c `, `font-size:${size};color:${color}`, img)
+  console.log(text2)
+  // console.log(process.env.VUE_APP_TEXT)
 }
 </script>
 
