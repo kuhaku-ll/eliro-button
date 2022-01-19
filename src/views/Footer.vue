@@ -17,11 +17,11 @@
         </div>
         <div>
             Powered by
-            <a href="https://github.com/blacktunes/voices-button-cli"
-              >voices-button-cli</a
-            >{{ " | "
-            }}<a href="https://github.com/blacktunes/hiiro-button"
+            <a href="https://github.com/blacktunes/hiiro-button"
               >hiiro-button</a
+            >{{ " | "
+            }}<a href="https://github.com/kuhaku-ll/eliro-button"
+              >eliro-button</a
             >
          </div>
       </div>
