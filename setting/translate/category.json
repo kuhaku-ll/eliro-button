@@ -6,6 +6,12 @@
       "en-US": ""
     }
   },{
+    "name": "滢宝の奖励",
+    "translate": {
+      "zh-CN": "滢宝の奖励",
+      "en-US": ""
+    }
+  },{
     "name": "滢宝の日常",
     "translate": {
       "zh-CN": "滢宝の日常",
@@ -27,12 +33,6 @@
     "name": "滢宝の歌声",
     "translate": {
       "zh-CN": "滢宝の歌声",
-      "en-US": ""
-    }
-  },{
-    "name": "滢宝の奖励",
-    "translate": {
-      "zh-CN": "滢宝の奖励",
       "en-US": ""
     }
   },{
