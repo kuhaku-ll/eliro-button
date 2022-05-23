@@ -1,4 +1,5 @@
 <template>
+<div id="flame"></div>
   <VHeader />
   <router-view style="min-height: calc(100vh - 48px - 78px)" />
   <Control />
