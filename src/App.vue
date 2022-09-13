@@ -30,8 +30,7 @@ if (CONSOLE && (CONSOLE.text || CONSOLE.img)) {
     reader.onload = (e) => {
       if (e.target?.result) {
         const img = CONSOLE.img ? `padding-right:${width};padding-top:${height};background:url('${e.target.result}') no-repeat;background-size:100% 100%` : ''
-        console.log(`%c${text}%c `, `font-size:${size};color:${color}`, img)
-        console.log(text2)
+        console.log(`%c${text}%c `, `font-size:${size};color:${color}`, img, `${text2}`)
         reader.onload = null
       }
     }
