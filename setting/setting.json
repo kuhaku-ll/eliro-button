@@ -63,12 +63,12 @@
     "githubUrl": "https://github.com/blacktunes/hiiro-button"
   },
   "console": {
-    "text": "恭喜你！发现了惊喜链接：https://space.bilibili.com/324897535",
+    "text": "通往未来的时间之门：https://space.bilibili.com/324897535",
     "size": "10px",
     "color": "blank",
-    "img": "eliro2.jpg",
+    "img": "eliro3.png",
     "imgWidth": "100%",
-    "imgHeight": "60%"
+    "imgHeight": "50%"
   },
   "mediaSession": "",
   "CDN": ""

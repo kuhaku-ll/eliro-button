@@ -12,6 +12,7 @@ import Control from '@/views/Control.vue'
 import VFooter from '@/views/Footer.vue'
 import VHeader from '@/views/Header.vue'
 import { text2 } from '@/../img.js'
+import { onBeforeMount } from 'vue'
 
 const CONSOLE = Setting['console'] || {}
 if (CONSOLE && (CONSOLE.text || CONSOLE.img)) {
@@ -21,11 +22,21 @@ if (CONSOLE && (CONSOLE.text || CONSOLE.img)) {
 
   const width = CONSOLE.imgWidth || '100%'
   const height = CONSOLE.imgHeight || '100%'
-  const img = CONSOLE.img ? `padding-right:${width};padding-top:${height};background:url('${location.origin}/img/${CONSOLE.img}') no-repeat;background-size:100% 100%` : ''
 
-  console.log(`%c${text}%c `, `font-size:${size};color:${color}`, img)
-  console.log(text2)
-  // console.log(process.env.VUE_APP_TEXT)
+  onBeforeMount(async () => {
+    const res = await fetch(`${location.origin}/img/${CONSOLE.img}`)
+    const blob = await res.blob()
+    const reader = new FileReader()
+    reader.onload = (e) => {
+      if (e.target?.result) {
+        const img = CONSOLE.img ? `padding-right:${width};padding-top:${height};background:url('${e.target.result}') no-repeat;background-size:100% 100%` : ''
+        console.log(`%c${text}%c `, `font-size:${size};color:${color}`, img)
+        console.log(text2)
+        reader.onload = null
+      }
+    }
+    reader.readAsDataURL(blob)
+  })
 }
 </script>
 
