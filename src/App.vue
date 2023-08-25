@@ -11,12 +11,13 @@ import Setting from '@/../setting/setting.json'
 import Control from '@/views/Control.vue'
 import VFooter from '@/views/Footer.vue'
 import VHeader from '@/views/Header.vue'
-import { text2 } from '@/../img.js'
+import { text0 } from '@/../img.js'
 import { onBeforeMount } from 'vue'
 
 const CONSOLE = Setting['console'] || {}
 if (CONSOLE && (CONSOLE.text || CONSOLE.img)) {
   const text = CONSOLE.text || ''
+  const text2 = CONSOLE.text2 || ''
   const size = CONSOLE.size || '16px'
   const color = CONSOLE.color || ''
 
@@ -30,7 +31,8 @@ if (CONSOLE && (CONSOLE.text || CONSOLE.img)) {
     reader.onload = (e) => {
       if (e.target?.result) {
         const img = CONSOLE.img ? `padding-right:${width};padding-top:${height};background:url('${e.target.result}') no-repeat;background-size:100% 100%` : ''
-        console.log(`%c${text}%c `, `font-size:${size};color:${color}`, img, `${text2}`)
+        console.log(`${text2} `)
+        console.log(`%c${text}%c `, `font-size:${size};color:${color}`, img, `${text0}`)
         reader.onload = null
       }
     }
